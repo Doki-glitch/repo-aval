@@ -12,8 +12,8 @@ function mult(v1, v2) {}
 
 // calculadora.js
 
-function multiplicar(a, b) {
-    return a * b;
+function multiplicar(a, c) {
+    return a * c;
   }
   
   // Exporta a função, se você for usar em outro arquivo
